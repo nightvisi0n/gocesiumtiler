@@ -30,10 +30,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mfbonfigli/gocesiumtiler/internal/tiler"
-	"github.com/mfbonfigli/gocesiumtiler/pkg"
-	"github.com/mfbonfigli/gocesiumtiler/pkg/algorithm_manager/std_algorithm_manager"
-	"github.com/mfbonfigli/gocesiumtiler/tools"
+	"github.com/nightvisi0n/gocesiumtiler/internal/tiler"
+	"github.com/nightvisi0n/gocesiumtiler/pkg"
+	"github.com/nightvisi0n/gocesiumtiler/pkg/algorithm_manager/std_algorithm_manager"
+	"github.com/nightvisi0n/gocesiumtiler/tools"
 	// "github.com/pkg/profile" // enable for profiling
 )
 
