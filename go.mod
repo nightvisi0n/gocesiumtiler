@@ -1,4 +1,4 @@
-module github.com/mfbonfigli/gocesiumtiler
+module github.com/nightvisi0n/gocesiumtiler
 
 go 1.15
 
